@@ -5,6 +5,8 @@
 <h3  align="center">Interface do Nubank com animações</h3>
 </p>
 
+<br>
+
 <p align="center">
 <img src="https://i.imgur.com/EfhSXMT.png" title="source: imgur.com" />
 </p>
