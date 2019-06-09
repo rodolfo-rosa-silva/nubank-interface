@@ -16,4 +16,4 @@
     clone https://github.com/rodolfo-rosa-silva/nubank-interface
     cd nubank-interface
     yarn ou npm install
-    react-native run-android ou react-native-ios
+    react-native run-android ou react-native run-ios
